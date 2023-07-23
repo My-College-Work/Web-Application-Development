@@ -1,0 +1,8 @@
+C:\Users\user1\source\repos\rajat1\PrimeCheck\bin\Debug\PrimeCheck.exe.config
+C:\Users\user1\source\repos\rajat1\PrimeCheck\bin\Debug\PrimeCheck.exe
+C:\Users\user1\source\repos\rajat1\PrimeCheck\bin\Debug\PrimeCheck.pdb
+C:\Users\user1\source\repos\rajat1\PrimeCheck\obj\Debug\PrimeCheck.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\rajat1\PrimeCheck\obj\Debug\PrimeCheck.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\source\repos\rajat1\PrimeCheck\obj\Debug\PrimeCheck.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\rajat1\PrimeCheck\obj\Debug\PrimeCheck.exe
+C:\Users\user1\source\repos\rajat1\PrimeCheck\obj\Debug\PrimeCheck.pdb

@@ -1,0 +1,8 @@
+C:\Users\user1\source\repos\rajat1\rajat1\bin\Debug\rajat1.exe.config
+C:\Users\user1\source\repos\rajat1\rajat1\bin\Debug\rajat1.exe
+C:\Users\user1\source\repos\rajat1\rajat1\bin\Debug\rajat1.pdb
+C:\Users\user1\source\repos\rajat1\rajat1\obj\Debug\SimpleCalc.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\rajat1\rajat1\obj\Debug\SimpleCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\source\repos\rajat1\rajat1\obj\Debug\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\rajat1\rajat1\obj\Debug\rajat1.exe
+C:\Users\user1\source\repos\rajat1\rajat1\obj\Debug\rajat1.pdb
