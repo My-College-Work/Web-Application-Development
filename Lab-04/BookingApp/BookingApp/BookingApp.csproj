@@ -68,6 +68,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="BookStay.aspx" />
+    <Content Include="CheckViewState.aspx" />
+    <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -77,6 +79,16 @@
     </Compile>
     <Compile Include="BookStay.aspx.designer.cs">
       <DependentUpon>BookStay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CheckViewState.aspx.cs">
+      <DependentUpon>CheckViewState.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CheckViewState.aspx.designer.cs">
+      <DependentUpon>CheckViewState.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
